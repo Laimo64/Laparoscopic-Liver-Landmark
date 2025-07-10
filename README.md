@@ -1,4 +1,4 @@
-# [Private Preview] Landmark Segmentation with Foundation Models
+# Landmark Segmentation with Foundation Models
 
 This repository contains a simplified and anonymized preview of a work-in-progress project under AAAI 2026 submission.
 
