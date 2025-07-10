@@ -4,7 +4,7 @@ This repository contains a simplified and anonymized preview of a work-in-progre
 
 ** Full code and data will be released upon acceptance.
 
-## 🔍 Description
+## Description
 We explore the adaptation of vision foundation models (e.g. SAM2, Depth Anything V2) for depth-aware landmark segmentation in laparoscopic imagery.
 
 ### ✅ Features shown
@@ -17,4 +17,4 @@ We explore the adaptation of vision foundation models (e.g. SAM2, Depth Anything
 - Fine-tuning scripts or training data
 - Real surgical images
 
-📩 For code access under NDA or interview context, please contact: `lyunchen178@gmail.com`
+** For code access under NDA or interview context, please contact: `lyunchen178@gmail.com`
